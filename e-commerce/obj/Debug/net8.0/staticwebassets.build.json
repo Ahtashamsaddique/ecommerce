@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "SM33v5mERPx4x/38FGlQfo9KZF01OzoJ0UJkTs9JVtk=",
+  "Source": "e-commerce",
+  "BasePath": "_content/e-commerce",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "e-commerce\\wwwroot",
+      "Source": "e-commerce",
+      "ContentRoot": "C:\\Users\\ahtasham.m\\source\\repos\\ecommerce\\e-commerce\\wwwroot\\",
+      "BasePath": "_content/e-commerce",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ahtasham.m\\source\\repos\\ecommerce\\e-commerce\\wwwroot\\images\\products\\product1.png",
+      "SourceId": "e-commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ahtasham.m\\source\\repos\\ecommerce\\e-commerce\\wwwroot\\",
+      "BasePath": "_content/e-commerce",
+      "RelativePath": "images/products/product1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\product1.png"
+    }
+  ]
+}
